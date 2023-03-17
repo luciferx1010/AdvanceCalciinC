@@ -7,7 +7,9 @@ To use this program, simply clone or download the source code from this reposito
 
 sh
 Copy code
+ ```
 git clone https://github.com/your-username/advanced-calculator.git
+```
 Usage
 To compile the program, navigate to the directory where the source code is located and use the following command:
 
